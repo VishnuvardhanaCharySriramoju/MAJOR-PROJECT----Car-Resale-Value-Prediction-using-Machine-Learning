@@ -1,1 +1,3 @@
 # MAJOR-PROJECT----Car-Resale-Value-Prediction-using-Machine-Learning
+Used car resale market in India was marked at 24.2 billion US dollars in 2019. Due to the huge requirement of used cars and lack of experts who can determine the correct valuation, there is an utmost need of bridging this gap between sellers and buyers. This project focuses on building a system that can accurately predict a resale value of the car based on minimal features like kms driven, year of purchase etc. without manual or human interference and hence it remains unbiased.
+This model should consider all the crucial factors which plays a vital role in predicting the resale value of cars with maximum accuracy. To access this model we will develop a simple user interface.
